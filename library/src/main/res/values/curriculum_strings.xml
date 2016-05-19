@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weekday_list">
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+        <item>Sun</item>
+    </string-array>
+
+    <string-array name="session_time" translatable="false">
+        <item>08:00</item>
+        <item>09:50</item>
+        <item>13:30</item>
+        <item>15:20</item>
+        <item>17:05</item>
+        <item>19:20</item>
+    </string-array>
+
+    <string-array name="session_title">
+        <item>Session 1</item>
+        <item>Session 2</item>
+        <item>Session 3</item>
+        <item>Session 4</item>
+        <item>Session 5</item>
+        <item>Session 6</item>
+    </string-array>
+
+</resources>
